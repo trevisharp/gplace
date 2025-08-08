@@ -1,0 +1,2 @@
+ApplicationConfiguration.Initialize();
+
